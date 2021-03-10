@@ -1,4 +1,5 @@
-# Python-Pandas-Challenge
+# Heroes of Pymoli
+
 Analyzing  data for a fantasy game Heroes of Pymoli.
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
@@ -79,8 +80,13 @@ As final considerations:
 * Second, this activity will also challenge you by requiring you to learn on your feet. Don't fool yourself into thinking: "I need to study pandas more closely before diving in." Get the basic gist of the library and then _immediately_ get to work. When facing a daunting task, it's easy to think: "I'm just not ready to tackle it yet." But that's the surest way to never succeed. Learning to program requires one to constantly tinker, experiment, and learn on the fly. You are doing exactly the _right_ thing, if you find yourself constantly practicing Google-Fu and diving into documentation. There is just no way (or reason) to try and memorize it all. Online references are available for you to use when you need them. So use them!
 
 * Take each of these steps one at a time. Begin your work, answering the basic questions: "How do I import the data?" "How do I convert the data into a DataFrame?" "How do I build the first table?" Don't get intimidated by the number of asks. Many of them are repetitive in nature with just a few tweaks. Be persistent and creative!
+![Fantasy](https://user-images.githubusercontent.com/71161293/110712158-c4cdcd80-81ce-11eb-9b64-d6851507b4b1.png)
+
 
 * Expect these exercises to take time! Don't get discouraged if you find yourself spending  hours initially with little progress. Force yourself to deal with the discomfort of not knowing and forge ahead. Consider these hours an investment in your future!
 
 * As always, feel encouraged to work with your groups and get help from your tutor, AskBCS, TAs and Instructor. Just remember, true success comes from mastery and _not_ a completed homework assignment. So challenge yourself to truly succeed!
+
+
+
 
