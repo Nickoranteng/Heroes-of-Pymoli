@@ -83,9 +83,7 @@ As final considerations:
 ![Fantasy](https://user-images.githubusercontent.com/71161293/110712158-c4cdcd80-81ce-11eb-9b64-d6851507b4b1.png)
 
 
-* Expect these exercises to take time! Don't get discouraged if you find yourself spending  hours initially with little progress. Force yourself to deal with the discomfort of not knowing and forge ahead. Consider these hours an investment in your future!
 
-* As always, feel encouraged to work with your groups and get help from your tutor, AskBCS, TAs and Instructor. Just remember, true success comes from mastery and _not_ a completed homework assignment. So challenge yourself to truly succeed!
 
 
 
