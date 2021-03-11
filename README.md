@@ -69,7 +69,7 @@ Your final report should include each of the following:
 # Programming Languages
 
 * Pandas Library and the Jupyter Notebook.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+
 
 
 
