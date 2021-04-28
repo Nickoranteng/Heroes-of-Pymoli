@@ -1,9 +1,9 @@
 # User Story 
-* As Lead Analyst for an independent gaming company, ive been assigned the task of analyzing the data for the most recent fantasy game Heroes of Pymoli.
+* As a Lead Analyst for an independent gaming company, i've been assigned the task of analyzing the data for the most recent fantasy game Heroes of Pymoli.
 * This Game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 ## Objective
-* I generated a report that breaks down the game's purchasing data into meaningful insights.
+* To generated a report that breaks down the game's purchasing data into meaningful insights.
 * Total Number of Players.
 * Calculate Number of Unique Items.
 * Average Purchase Price.
@@ -18,7 +18,6 @@
 
 ### Purchasing Analysis (Gender)
 
-* The below each broken by gender.
 * Purchase Count.
 * Average Purchase Price.
 * Total Purchase Valu.e
@@ -26,14 +25,14 @@
 
 ### Top Spenders
 
-* top 5 spenders in the game by total purchase value.
+* Top 5 spenders in the game by total purchase value.
 * Purchase Count.
 * Average Purchase Price.
 * Total Purchase Value.
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count.
+* Top 5 most popular items by purchase count.
 * Item ID.
 * Item Name.
 * Purchase Count.
@@ -42,17 +41,19 @@
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* Top 5 most profitable items by total purchase value.
 * Item ID
 * Item Name
 * Purchase Count
 * Item Price
 * Total Purchase Value
 
+# Data
+* CSV Purchase Data in the Resources Folder
+
 # Programming Languages
 
 * Pandas Library and the Jupyter Notebook.
-
 
 
 
