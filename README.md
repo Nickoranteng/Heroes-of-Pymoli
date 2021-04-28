@@ -18,9 +18,10 @@ To generated a report that breaks down the game's purchasing data into meaningfu
 
 # Programming Languages
 
-* Pandas Library and the Jupyter Notebook.
+* Pandas Library and the Jupyter Notebook. The code was sritten using python's jupyter notebook.
+* Libraries used were matplotlib, numpy, pandas and also sqlalchemy 
 
-
+# Screen Shot
 
 ![Fantasy](https://user-images.githubusercontent.com/71161293/110712158-c4cdcd80-81ce-11eb-9b64-d6851507b4b1.png)
 
