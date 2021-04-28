@@ -3,23 +3,23 @@
 * This Game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 ## Objective
-To generated a report that breaks down the game's purchasing data into meaningful insights ase on the following categories
+To generated a report that breaks down the game's purchasing data into meaningful insights ase on the following categories:
 
-* Gender Demographics
-* Purchasing Analysis (Gender)
-* Top Spenders
-* Most Popular Items
-* Most Profitable Items
+* Gender Demographics.
+* Purchasing Analysis (Gender).
+* Top Spenders.
+* Most Popular Items.
+* Most Profitable Items.
 
 
 
 # Data
-* CSV Purchase Data in the Resources Folder
+* CSV Purchase Data in the Resources Folder.
 
 # Programming Languages
 
 * Pandas Library and the Jupyter Notebook. The code was sritten using python's jupyter notebook.
-* Libraries used were matplotlib, numpy, pandas and also sqlalchemy 
+* Libraries used were matplotlib, numpy, pandas and also sqlalchemy. 
 
 # Screen Shot
 
