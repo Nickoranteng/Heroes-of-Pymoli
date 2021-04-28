@@ -3,50 +3,15 @@
 * This Game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 ## Objective
-* To generated a report that breaks down the game's purchasing data into meaningful insights.
-* Total Number of Players.
-* Calculate Number of Unique Items.
-* Average Purchase Price.
-* Total Number of Purchases.
-* Total Revenue.
+To generated a report that breaks down the game's purchasing data into meaningful insights ase on the following categories
 
-### Gender Demographics
+* Gender Demographics
+* Purchasing Analysis (Gender)
+* Top Spenders
+* Most Popular Items
+* Most Profitable Items
 
-* Percentage and Count of Male Players.
-* Percentage and Count of Female Players.
-* Percentage and Count of Other / Non-Disclosed.
 
-### Purchasing Analysis (Gender)
-
-* Purchase Count.
-* Average Purchase Price.
-* Total Purchase Valu.e
-* Average Purchase Total per Person by Gender.
-
-### Top Spenders
-
-* Top 5 spenders in the game by total purchase value.
-* Purchase Count.
-* Average Purchase Price.
-* Total Purchase Value.
-
-### Most Popular Items
-
-* Top 5 most popular items by purchase count.
-* Item ID.
-* Item Name.
-* Purchase Count.
-* Item Price.
-* Total Purchase Value.
-
-### Most Profitable Items
-
-* Top 5 most profitable items by total purchase value.
-* Item ID
-* Item Name
-* Purchase Count
-* Item Price
-* Total Purchase Value
 
 # Data
 * CSV Purchase Data in the Resources Folder
