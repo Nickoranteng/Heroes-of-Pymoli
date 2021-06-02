@@ -2,7 +2,7 @@
 * As a Lead Analyst for an independent gaming company, i've been assigned the task of analyzing the data for the most recent fantasy game Heroes of Pymoli.
 * This Game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
-## Objective
+# Objective
 To generated a report that breaks down the game's purchasing data into meaningful insights ase on the following categories:
 
 * Gender Demographics.
