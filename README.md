@@ -14,7 +14,7 @@ To generated a report that breaks down the game's purchasing data into meaningfu
 
 
 # Data
-* CSV Purchase Data in the Resources Folder.
+* Purchase Data in CSV format.
 
 # Programming Languages
 
